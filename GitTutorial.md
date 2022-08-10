@@ -15,3 +15,5 @@
 
 8. Команда git branch выводит все существующие в репозитории ветки, указывая на существующую. 
 9. Команда git merge branch_name сливает текущую ветку (current) с веткой branch_name (incoming).
+10. Команда git branch branch_name создающая новую ветку с именем branch_name.
+
